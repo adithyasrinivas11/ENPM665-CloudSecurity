@@ -1,0 +1,10 @@
+[
+    {
+      "Description": "My Server OVA",
+      "Format": "ova",
+      "UserBucket": {
+          "S3Bucket": "cobrakai-119397213",
+          "S3Key": "ENPM809J-Project.ova"
+      }
+    }
+  ]
